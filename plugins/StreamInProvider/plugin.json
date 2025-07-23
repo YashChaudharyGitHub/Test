@@ -2,9 +2,11 @@
   "name": "StreamIn",
   "description": "Live sports provider",
   "version": "1.0.0",
-  "package": "com.yash.streamin",
+  "packageName": "com.yash.streamin",
   "pluginType": "provider",
   "language": "kotlin",
   "author": "Yash",
-  "url": "https://github.com/YashChaudharyGitHub/Test"
+  "url": "https://github.com/YashChaudharyGitHub/Test",
+  "mainClass": "StreamInProvider",
+  "apiVersion": 5
 }
